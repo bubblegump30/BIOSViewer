@@ -4,6 +4,10 @@ Created by **Purple Dragon Foundation Ltd**
 - https://www.purpledragonfoundationltd.xyz/
 - https://identities.lol/kyleaustinhillier
 
+## Screenshot
+
+![BIOS Viewer dashboard in Dark Mode, showing hardware information, live CPU and RAM usage, and snapshot tracking](docs/images/dashboard.png)
+
 ## Download
 
 On GitHub, choose **Code > Download ZIP**, then extract the ZIP before opening the app. Alternatively, clone this repository. This repository contains the portable app source; it does not include personal hardware reports or saved preferences.
