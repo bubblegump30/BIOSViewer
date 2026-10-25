@@ -1,0 +1,17 @@
+# Local hardware reports and preferences
+data/
+*.json
+*.html
+*.log
+
+# Local development and temporary files
+work/
+outputs/
+*.tmp
+.env
+.env.*
+*.key
+*.pem
+.vscode/
+.DS_Store
+Thumbs.db
