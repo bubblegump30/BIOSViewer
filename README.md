@@ -57,3 +57,13 @@ Some queries require administrator privileges. To run with those permissions, op
 The launcher uses a process-local execution policy option; it does not change the persistent Windows execution policy. The app never elevates itself automatically. Queries run in background workers; full collection has a 120-second limit, live samples a 25-second limit. Live sampling is approximately every five seconds after the previous sample completes and pauses when minimized. Closing the app stops its workers. There is no startup task or background service.
 
 A-XMP profiles, PBO, firmware boot priority, fan curves, CPU temperature, and CPU voltages are not exposed by this version. It does not write firmware settings, install drivers, apply updates, restart the PC, or change power plans. Native Windows title bars, tab headers, drop-down lists, and file dialogs may follow the system theme.
+
+## Community and licensing
+
+BIOS Viewer is released under the [MIT License](LICENSE), copyright 2026 Purple Dragon Foundation Ltd.
+
+- [Contributing guidelines](CONTRIBUTING.md)
+- [Code of Conduct](CODE_OF_CONDUCT.md)
+- [Security policy and private vulnerability reporting](SECURITY.md)
+- [Accessibility statement](ACCESSIBILITY.md)
+- [Report a bug, request a feature, or report an accessibility barrier](https://github.com/bubblegump30/BIOSViewer/issues/new/choose)
