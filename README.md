@@ -12,6 +12,14 @@ Created by **Purple Dragon Foundation Ltd**
 
 On GitHub, choose **Code > Download ZIP**, then extract the ZIP before opening the app. Alternatively, clone this repository. This repository contains the portable app source; it does not include personal hardware reports or saved preferences.
 
+## VirusTotal scan
+
+[View the VirusTotal report for BIOSViewer-v1.0.0.zip](https://www.virustotal.com/gui/file/e0dc7a0180496a6b3b860b22ece291f2b8ef803b94937dc0cca30d6ab1ee8da8).
+
+The report checked on October 24, 2026 showed **0/64 detections**, with no security vendors flagging the ZIP as malicious. Some other engines timed out, failed, or could not process the file type. This is a scan result for the specific release ZIP, not a guarantee of safety or coverage of future versions.
+
+SHA-256: `e0dc7a0180496a6b3b860b22ece291f2b8ef803b94937dc0cca30d6ab1ee8da8`
+
 ## Open the app
 
 Double-click **Open BIOS Viewer.cmd**. Keep the app files together. Requires Windows PowerShell 5.1, included with Windows. No installation, third-party packages, or network connection is required. Clicking the website/profile links opens your default browser.
